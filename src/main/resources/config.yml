@@ -1,0 +1,8 @@
+# FramelessDisplay 配置
+
+# 是否启用展示框替换
+enabled: true
+
+# 不启用的世界列表
+disabled-worlds: []
+#  - world_nether

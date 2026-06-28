@@ -1,0 +1,16 @@
+name: FramelessDisplay
+version: '1.0.0'
+main: io.papermc.frameless.FramelessDisplay
+api-version: '1.21'
+author: MC智能Agent
+description: Replace item frames with lag-free ItemDisplay entities.
+commands:
+  frameless:
+    description: FramelessDisplay management command
+    usage: /frameless <migrate|stats|reload>
+    permission: frameless.admin
+permissions:
+  frameless.admin:
+    default: op
+  frameless.use:
+    default: true
