@@ -1,4 +1,4 @@
-# FramelessDisplay (Unfinished / Abandoned)
+﻿# FramelessDisplay (Unfinished / Abandoned)
 
 **Status: ❌ 半成品，已废弃。保留供未来参考。**
 
@@ -68,3 +68,6 @@ gradlew build
 ---
 
 ⚠️ 此仓库仅作存档，不再维护。
+---
+
+> **Author:** 1A1_D & QClaw
